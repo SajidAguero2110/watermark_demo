@@ -1,0 +1,7 @@
+#Fri May 05 18:10:00 IST 2017
+base.0=C\:\\Users\\sajid\\AndroidStudioProjects\\WaterMarkVideo\\ffmpeg4android_demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_05e6d1cdb514b0cbfde0a624865a9d5ae386636d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\sajid\\AndroidStudioProjects\\WaterMarkVideo\\ffmpeg4android_demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7006ab0c2a2ef87d219076a1fdf4c9f8235f2587\\classes.dex
+base.1=C\:\\Users\\sajid\\AndroidStudioProjects\\WaterMarkVideo\\ffmpeg4android_demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7006ab0c2a2ef87d219076a1fdf4c9f8235f2587
+file.0=C\:\\Users\\sajid\\AndroidStudioProjects\\WaterMarkVideo\\ffmpeg4android_demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_05e6d1cdb514b0cbfde0a624865a9d5ae386636d\\classes.dex
